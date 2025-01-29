@@ -20,7 +20,7 @@ public class T6_ejer17 {
 		}
 		System.out.println("Lista con pares e impares " + lista);
 		System.out.println("Lista de solo pares " + lista_pares);
-		System.out.println("HOLA");
+		System.out.println("HOLA que tal");
 	}
 
 }
